@@ -59,17 +59,6 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2 align="left">🔗 Connect With Me</h2>
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> |
-  <a href="YOUR_LEETCODE_URL">LeetCode</a>
-</p>
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ### 🔗 Connect With Me
 
