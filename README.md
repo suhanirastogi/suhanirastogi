@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <h2 align="center">📊 My GitHub History</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suhanirastogi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanirastogi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=suhanirastogi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=suhanirastogi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <h2 align="center">🔥 GitHub Streak</h2>
@@ -62,19 +62,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=suhanirastogi&theme=tokyonight&hide_border=true" />
 </p>
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suhanirastogi&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-
-
 
 
 ### 🔗 Connect With Me
