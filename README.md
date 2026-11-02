@@ -64,6 +64,34 @@ Here are some ideas to get you started:
 </p>
 
 
+
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: suhanirastogi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suhanirastogi/suhanirastogi/output/github-contribution-grid-snake.svg" />
+</p>
+
 ### 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/suhani-rastogi-8911b7285/)| [LeetCode](https://leetcode.com/u/suhani_rastogii/)
