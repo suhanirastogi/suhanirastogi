@@ -50,31 +50,30 @@ Here are some ideas to get you started:
 </p>
 
 
-
-<h2 align="left">📊 My GitHub History!</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=false&rank_icon=percentile&custom_title=My%20GitHub%20Stats" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=false" />
-</p>
-
-
-<h2 align="left">📈 Contribution Activity</h2>
+<h2 align="center">📊 My GitHub History</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suhanirastogi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhanirastogi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=suhanirastogi&theme=tokyonight&hide_border=true" />
 </p>
 
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suhanirastogi&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+
 
 
 
